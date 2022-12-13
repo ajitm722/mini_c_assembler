@@ -1,4 +1,4 @@
-# mini_c_assembler Interpreter
+# mini_c_assembler and compiler
 
 ## Build
 
